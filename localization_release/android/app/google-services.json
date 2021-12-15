@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "773050968471",
+    "project_id": "green-place-1bb47",
+    "storage_bucket": "green-place-1bb47.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:773050968471:android:8f34e8a0b07ed9b219bcd2",
+        "android_client_info": {
+          "package_name": "com.example.localization_release"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "773050968471-mbikapn6psl5b63mnssaria7qrikl8v6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC7tvPQzW1jclgdMseY8dM-8fQ2rkxYf78"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "773050968471-mbikapn6psl5b63mnssaria7qrikl8v6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
