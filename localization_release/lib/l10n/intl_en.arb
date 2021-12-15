@@ -1,0 +1,6 @@
+{
+    "appTitle":"Counter App",
+    "pageTitle":"Counter App - Home Page",
+    "counterText":"{counter, plural, zero{You have never pushed this button} one{You have pushed this button 1 time} other{}}",
+    "clickme": "Click me please:"
+}

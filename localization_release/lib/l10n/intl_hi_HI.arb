@@ -1,0 +1,5 @@
+{
+    "appTitle":"काउंटर ऐप",
+    "pageTitle":"काउंटर ऐप - होम पेज",
+    "counterText":"{counter, plural, zero{आपने कभी इस बटन को धक्का नहीं दिया} one{आपने इस बटन को 1 बार पुश किया है} other{}}"
+}

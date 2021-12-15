@@ -1,0 +1,6 @@
+{
+    "appTitle":"Truy cập ứng dụng",
+    "pageTitle":"Truy cập ứng dụng - Trang chủ",
+    "counterText":"{counter, plural, zero{Bạn chưa bao giờ nhấn nút này} one{Bạn đã nhấn nút này 1 lần} other{}}",
+    "clickme":"Nhấp vào tôi"
+}
